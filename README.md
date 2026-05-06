@@ -19,24 +19,12 @@ Android development
 
 Visual Studio 2026, Visual Studio Code, Zen Editor
 
-
-<!-- <span style="font-size: 22px; font-weight: 600;">Selected Work</span>
-
-(Add or remove projects as needed.)
-
-Project Name – One-sentence description of the purpose and scope.
-
-Project Name – Brief explanation of what you built and technologies used.
-
-Project Name – Short summary, implementation details, or problem solved.
-
--->
 <h2 style="font-size: 22px; font-weight: 600;">Interests & Focus Areas</h2>
 
 I am interested in backend engineering, software architecture, and building efficient tools that solve practical problems. I also work on personal projects to expand my skills across different languages and frameworks.
 
 <h2 style="font-size: 22px; font-weight: 600;">Contact</h2>
 
-Email: ibtisamahmed02@gmail.com
+Email: contact@samstack.site
 
-Additional platforms (Discord, Instagram, Twitter) available on request.
+Visit: <a href="http://www.samstack.site">Visit</a>
