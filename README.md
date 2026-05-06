@@ -27,4 +27,4 @@ I am interested in backend engineering, software architecture, and building effi
 
 Email: contact@samstack.site
 
-Visit: <a href="http://www.samstack.site">Visit</a>
+<a href="http://www.samstack.site">Visit</a>
